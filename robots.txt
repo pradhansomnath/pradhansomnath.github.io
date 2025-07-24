@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pradhansomnath.github.io/sitemap.xml
