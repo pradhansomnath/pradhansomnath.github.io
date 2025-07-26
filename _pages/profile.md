@@ -23,4 +23,4 @@ nav_order: 7
 
 ##### BS-MS Students: (Master's Thesis)
 
-- Shamil K V (2024 - 25 )
+- Shamil K V (2024 - 25)
