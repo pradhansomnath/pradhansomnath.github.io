@@ -42,3 +42,14 @@ My research interest includes stochastic processes and its application to stocha
 - Stochastic games
 - Stochastic dynamical systems.
 - Rough path theory
+
+# Announcement
+
+# h1
+## h2 
+### h3
+#### h4
+##### h5
+###### h6
+
+Applications are invited for the post of ‘Research Associate’. I am looking for a candidate interested in the area of stochastic analysis and its application to stochastic control theory and related fields.
