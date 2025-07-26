@@ -483,6 +483,13 @@ ninja.data = [{
           window.open("mailto:%73%6F%6D%6E%61%74%68%70%72%61%64%68%61%6E%6D%61%74%68%39%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/somnath-pradhan-64451b100", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
