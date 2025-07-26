@@ -490,6 +490,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/somnath-pradhan-64451b100", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-1470-8240", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
